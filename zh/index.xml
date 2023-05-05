@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wenyu&#39;s Blog</title>
+    <link>https://wenyvchen.github.io/zh/</link>
+    <description>Recent content on Wenyu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://wenyvchen.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🙋关于我</title>
+      <link>https://wenyvchen.github.io/zh/about/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenyvchen.github.io/zh/about/</guid>
+      <description>陈文钰 2000年来到世界 在浪漫的厦门度过了22年，现在来到大苹果纽约 我想用手写码，用脑分析，用口表达，用全感官感受 我是这样的： 喜欢和他人交流，同时坚持言多必失 感性内驱，同时理性决策 “循此苦旅，以达星辰” 我喜欢： 篮球 没有技巧的摄影 厨艺修炼</description>
+    </item>
+    
+    <item>
+      <title>个人经历</title>
+      <link>https://wenyvchen.github.io/zh/experience/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenyvchen.github.io/zh/experience/</guid>
+      <description>实习经历 得物 App-鞋类品牌运营实习生 上海 2021.07 - 2021.09 数据分析：对Jordan, New Balance等品牌站内数据进行分析，具体涉及在大促和会场等活动结束后或日常地，按需对7天、15天、30天等范围内的GMV, 均单价，UV, 转化率等销售和流量数据进行抓取及分析，其中包含对不同子类目、不同用</description>
+    </item>
+    
+  </channel>
+</rss>
