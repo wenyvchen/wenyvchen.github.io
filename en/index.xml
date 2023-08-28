@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wenyu&#39;s Blog</title>
+    <link>https://wenyvchen.github.io/en/</link>
+    <description>Recent content on Wenyu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://wenyvchen.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🙋About Me</title>
+      <link>https://wenyvchen.github.io/en/about-en/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenyvchen.github.io/en/about-en/</guid>
+      <description>Wenyu Chen Came into the world in 2000 Spent 22 years in romantic city of Xiamen, now lived in the Big Apple Want to code with my hands, analyze with my brain, express with my mouth, and feel with all my senses I： Enjoy communicating with others, but insist on that careless talk leads to trouble Drive by sympathy, with rational decision making &amp;ldquo;Per Aspera Ad Astra&amp;rdquo; I love： Basketball Photograph without Skills Cooking</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://wenyvchen.github.io/en/experience-en/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenyvchen.github.io/en/experience-en/</guid>
+      <description>Internship Experience POIZON App - Footwear Brands Operations Intern Shanghai, China 2021.07 - 2021.09 Data Analysis: Analyzed the data of Jordan, New Balance, etc., specifically the sales and traffic data such as GMV, UV, conversion rate, including comparisons of different subcategories, user groups (such as male/female, new/old customers), high-end and low-end products, etc., to provide support for decisions such as whether to seek more exposure for brands Daily Operations: Tracked the trends of brands to determine operational strategies for brands’ selling points, tone, etc.; based on these strategies, identified the design elements of ads pages such as the banner, selected featured products, and set up promotion pages Event Follow-up: Participated in a new product release event of New Balance, with work including pre-event stimulation of suppliers for exclusive release in our App, allocation of</description>
+    </item>
+    
+  </channel>
+</rss>

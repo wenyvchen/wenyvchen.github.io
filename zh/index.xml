@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wenyu&#39;s Blog</title>
+    <link>https://wenyvchen.github.io/zh/</link>
+    <description>Recent content on Wenyu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://wenyvchen.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🙋关于我</title>
+      <link>https://wenyvchen.github.io/zh/about/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenyvchen.github.io/zh/about/</guid>
+      <description>陈文钰 2000年来到世界 在浪漫的厦门度过了22年，现在来到大苹果纽约 我想用手写码，用脑分析，用口表达，用全感官感受 我是这样的： 喜欢和他人交流，同时坚持言多必失 感性内驱，同时理性决策 “循此苦旅，以达星辰” 我喜欢： 篮球 没有技巧的摄影 厨艺修炼</description>
+    </item>
+    
+    <item>
+      <title>个人经历</title>
+      <link>https://wenyvchen.github.io/zh/experience/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenyvchen.github.io/zh/experience/</guid>
+      <description>实习经历 美团-点评事业部内容生态组策略分析实习生 上海 2023.05 - 2023.08 日常数据监控：针对点评首页双列信息流负向曝光情况和治理专项的目标，使用SQL和Python提取、分析内容信息、曝光、审核记录等数据指标，监控数据的表现和趋势，发现内容生态治理策略中存在的缺陷，例如未能屏蔽“左下角”引流内容</description>
+    </item>
+    
+  </channel>
+</rss>
